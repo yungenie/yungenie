@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+
 - 🙋🏻‍♀️ I'm Yunjin Gwak (a.k.a yungenie🧞‍♀️) 
 - 🌏 I'm live in Seoul, Korea
 - 🔭 I'm currently working on upgrading my self
@@ -9,4 +11,7 @@
 - 📫 How to reach me: Email
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Next year, I will be a carton of eggs :)
+
+
+
 
