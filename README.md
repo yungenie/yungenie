@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-<!--
-**yungenie/yungenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋🏻‍♀️ I'm Yunjin Gwak (a.k.a yungenie🧞‍♀️) 
+- 🌏 I'm live in Seoul, Korea
+- 🔭 I'm currently working on upgrading my self
+- 🌱 I’m currently learning Java and Spring Boot
+- 👯 I’m looking to collaborate on web development
+- 🤔 I’m looking for help with life 
+- 📫 How to reach me: Email
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Next year, I will be a carton of eggs :)
 
