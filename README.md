@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🙋🏻‍♀️ I'm Yunjin Gwak (a.k.a yungenie🧞‍♀️) 
 - 🌏 I'm live in Seoul, Korea
