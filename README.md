@@ -1,8 +1,13 @@
-## Hi there 👋 I'm Yunjin Gwak
+<!-- Yunjin -->
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Yunjin%20Gwak&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
-- 🧞‍♀️My nickname is yungenie.
 
-- 🌱 I’m currently learning Java and Spring Boot
+
+<h3 align="center">🧞‍♀️My nickname is yungenie.</h3>
+
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<p align="center">Techs that I've used</p>
+
 
 
 ## Stats ⌛
