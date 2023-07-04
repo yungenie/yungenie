@@ -1,5 +1,5 @@
 <!-- Yunjin -->
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Yunjin%20Gwak&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Yunjin%20Gwak&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hi%20there,%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
