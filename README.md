@@ -4,9 +4,6 @@
 
 - 🌱 I’m currently learning Java and Spring Boot
 
-- 📝 I regularly post on [technical blog](https://yungenie.tistory.com/) and [daily blog](https://blog.naver.com/happy-yunjin)
-
-- 📬 How to reach me : **yunjin8931@gmail.com**
 
 ## Stats ⌛
 <img src='https://github-readme-stats.vercel.app/api?username=yungenie&show_icons=true&theme=algolia&count_private=true&line_height=40&hide_border=true'  align="left" />
