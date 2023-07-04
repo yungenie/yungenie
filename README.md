@@ -2,19 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Yunjin%20Gwak&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 
-
-<h3 align="center">🧞‍♀️My nickname is yungenie.</h3>
-
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used</p>
 
-
-
-## Stats ⌛
-<img src='https://github-readme-stats.vercel.app/api?username=yungenie&show_icons=true&theme=algolia&count_private=true&line_height=40&hide_border=true'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yungenie&theme=algolia&hide_langs_below=4&hide_border=true' align="middle" />
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yungenie&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
 
 ## Languages and Frameworks🖥️
 ![Java](https://img.shields.io/badge/Java-%23FA7343.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -44,6 +34,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+## Stats ⌛
+<img src='https://github-readme-stats.vercel.app/api?username=yungenie&show_icons=true&theme=algolia&count_private=true&line_height=40&hide_border=true'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yungenie&theme=algolia&hide_langs_below=4&hide_border=true' align="middle" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yungenie&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
 
 
 
