@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yunjin Gwak
 
-- 🧞‍♀️ My nickname is yungenie.
+- 🧞‍♀️My nickname is yungenie.
 
 - 🌱 I’m currently learning Java and Spring Boot
 
