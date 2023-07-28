@@ -4,7 +4,6 @@
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used</p>
-
 <p align = "center">
   <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
@@ -15,15 +14,12 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+
+</p>
+
 <br>
 
-</p>
-
-
-
-<h3 align="center">🍀 About Me 🍀</h3><br>
-<p align="center">
-    <a href=""><img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br>
-</p>
-
+<h3 align="center"> About Me </h3>
+<p align="center"> ↓ Click to go </p>
+<p align="center"><a href="https://yungenie.notion.site/927461683d9e410b8d62e480b322241c?pvs=4"><img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br></p>
 
