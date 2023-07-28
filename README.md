@@ -21,5 +21,5 @@
 
 <h3 align="center"> About Me </h3>
 <p align="center"> ↓ Click to go </p>
-<p align="center"><a href="https://yungenie.notion.site/927461683d9e410b8d62e480b322241c?pvs=4"><img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br></p>
+<p align="center"><a href="https://yungenie.notion.site/927461683d9e410b8d62e480b322241c?pvs=4"><img src="https://img.shields.io/badge/Notion-Resume-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br></p>
 
