@@ -5,36 +5,25 @@
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used</p>
 
+<p align = "center">
+  <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+<br>
 
-#### Languages and Frameworks
-![Java](https://img.shields.io/badge/Java-%23FA7343.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/-Python-3775A9?logo=Python&logoColor=FFD848&style=for-the-badge)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/mysql-055176?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Version Control and IDEs/Editors
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+</p>
 
 
-#### Stats ⌛
-<img src='https://github-readme-stats.vercel.app/api?username=yungenie&show_icons=true&theme=algolia&count_private=true&line_height=40&hide_border=true'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yungenie&theme=algolia&hide_langs_below=4&hide_border=true' align="middle" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yungenie&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
-
-
+<h3 align="center">🍀 About Me 🍀</h3><br>
+<p align="center">
+    <a href=""><img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br>
+</p>
 
 
