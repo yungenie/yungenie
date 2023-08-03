@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white"/></a>&nbsp
